@@ -1,0 +1,12 @@
+{
+  "name": "journal-confinement",
+  "version": "1.0.0",
+  "description": "A modular journal on the onset of Covid-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Green\""
+  },
+  "keywords": ["covid", "joke"],
+  "author": "gabssnake",
+  "license": "MIT"
+}
