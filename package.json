@@ -1,8 +1,12 @@
 {
   "name": "journal-confinement",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A modular journal on the onset of Covid-19",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "github:gabssnake/journal-de-confinement"
+  },
   "scripts": {
     "test": "echo \"Green\""
   },
